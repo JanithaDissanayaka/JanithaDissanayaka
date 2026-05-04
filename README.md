@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Janitha+Dissanayaka;DevOps+%7C+Cloud+%7C+AI%2FML+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&color=00C2FF&center=true&vCenter=true&width=800&lines=Janitha+Dissanayaka;DevOps+%7C+Cloud+%7C+AI%2FML+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
