@@ -1,60 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Janitha Dissanayaka
 
-<!--
-**JanithaDissanayaka/JanithaDissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Janitha 👋
-
-💻 Software Engineering Student | DevOps Enthusiast | Frontend Developer
+🎓 **Computer Science Undergraduate**
+⚡ **DevOps Enthusiast | Cloud | Scalable Systems Builder**
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Undergraduate passionate about building real-world systems
-* ⚡ Interested in **DevOps, Cloud, and Scalable Web Apps**
-* 🛠 Currently working on **IEEE NSBM Event Platform**
-* 📈 Active GitHub contributor (800+ contributions this year)
+* 💡 Passionate about building **real-world scalable systems**
+* ☁️ Focused on **Cloud, DevOps & Automation**
+* 🔧 Love working with **CI/CD pipelines & Infrastructure as Code**
+* 📈 Constantly learning and improving engineering skills
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, .NET
-* **DevOps:** Docker, Jenkins, Terraform
-* **Languages:** TypeScript, Java, C#
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### ⚙️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible" />
+</p>
+
+### 📊 Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,java,cs,python,c" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-* 🔹 DevOps Project (CI/CD with Terraform)
-* 🔹 Auction System (C#)
-* 🔹 IEEE Event Management Platform (Next.js)
+* 🚀 **DevOps Project 1** – CI/CD pipeline with automation
+* ⚡ **DevOps Project 2** – Containerized scalable system
+* 🛠 **CI/CD with Terraform** – Infrastructure automation project
+* 💻 **Auction Site** – Full-stack web application
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JanithaDissanayaka\&show_icons=true\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanithaDissanayaka&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanithaDissanayaka&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect With Me
 
-* LinkedIn: (add your link)
-* Email: (optional)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
+
+✨ *“Building systems that scale, automate, and perform.”*
