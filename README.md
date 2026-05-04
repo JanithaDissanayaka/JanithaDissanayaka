@@ -1,21 +1,16 @@
-<!-- ===================== HERO ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Janitha%20Dissanayaka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;Building+Scalable+Cloud+Systems;CI%2FCD+%7C+Kubernetes+%7C+Automation;AI%2FML+Enthusiast" />
+  <img src="./assets/banner.png" />
 </p>
 
----
-
-<h2 align="center">⚡ Engineering Scalable & Automated Systems</h2>
+<!-- ===================== TYPING ===================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-0db7ed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-CI%2FCD-orange?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Janitha+Dissanayaka;DevOps+Engineer+in+Progress;Cloud+%7C+AI%2FML+%7C+Scalable+Systems" />
 </p>
+
+<h1 align="center">⚡ Building Scalable Systems</h1>
 
 ---
 
@@ -24,10 +19,80 @@
 ```yaml
 Name: Janitha Dissanayaka
 Role: Computer Science Undergraduate
-Specialization: DevOps Engineering
-Interests:
-  - Cloud Infrastructure
-  - CI/CD Pipelines
-  - Scalable Systems Design
-  - AI/ML Integration
-Goal: Become a world-class DevOps Engineer
+Focus: DevOps | Cloud | AI/ML
+Passion: Building real-world scalable systems
+```
+
+---
+
+## 🧠 Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,kubernetes,jenkins,githubactions,terraform,ansible,python,tensorflow,pytorch,prometheus,grafana,java,cs,ts,c" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 DevOps Project 1
+
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=DevOps+Project+1" />
+</p>
+CI/CD pipeline with Jenkins, GitHub Actions, Docker  
+
+---
+
+### ⚡ DevOps Project 2
+
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=DevOps+Project+2" />
+</p>
+Kubernetes-based scalable deployment system  
+
+---
+
+### 🛠 CI/CD with Terraform
+
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=Terraform+Project" />
+</p>
+Infrastructure as Code automation  
+
+---
+
+### 💻 Auction Site
+
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=Auction+Site" />
+</p>
+Full-stack application with modern UI  
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JanithaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=JanithaDissanayaka&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=JanithaDissanayaka&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
