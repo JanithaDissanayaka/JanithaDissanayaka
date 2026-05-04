@@ -1,13 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Janitha%20Dissanayaka&fontSize=35&fontColor=ffffff"/>
-</p>
-
-<!-- ===================== TYPING ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+AI%2FML+Engineer;Building+Scalable+Systems;Automation+%7C+CI%2FCD+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Janitha+Dissanayaka;DevOps+%7C+Cloud+%7C+AI%2FML+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Janitha</h1>
@@ -15,51 +9,78 @@
 <p align="center">
 🎓 Computer Science Undergraduate <br>
 ⚡ DevOps | Cloud | AI/ML Enthusiast <br>
-🚀 Focused on scalable, real-world systems
+🚀 Passionate about building scalable, real-world systems
 </p>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## 🚀 About Me
 
-* 💡 Passionate about **building scalable applications**
-* ☁️ Focused on **Cloud, DevOps & Automation**
-* 🤖 Exploring **AI/ML integration**
-* 🔧 Love working with **CI/CD, Infrastructure as Code & Kubernetes**
+* 💡 I build **real-world scalable applications**
+* ☁️ Strong interest in **Cloud Computing & DevOps Engineering**
+* 🤖 Exploring **AI/ML integration with modern systems**
+* 🔧 Love working with **CI/CD pipelines, automation & infrastructure**
+* 📈 Always learning and improving engineering skills
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,kubernetes,jenkins,githubactions,terraform,ansible,python,pytorch,tensorflow,prometheus,grafana,java,cs,ts,c" />
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### ⚙️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 📊 Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,java,cs,python,c" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
 
-<p align="center">
+## 🔥 Featured Projects
 
-<a href="https://github.com/JanithaDissanayaka/DevOps_Project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithaDissanayaka&repo=DevOps_Project-1&theme=tokyonight&hide_border=true" />
-</a>
+🚀 **DevOps Project 1**
+→ CI/CD pipeline with automation using Jenkins & GitHub Actions
 
-<a href="https://github.com/JanithaDissanayaka/DevOps_Project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithaDissanayaka&repo=DevOps_Project-2&theme=tokyonight&hide_border=true" />
-</a>
+⚡ **DevOps Project 2**
+→ Containerized scalable system with Docker & Kubernetes
 
-<a href="https://github.com/JanithaDissanayaka/CI-CD-with-terraform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithaDissanayaka&repo=CI-CD-with-terraform&theme=tokyonight&hide_border=true" />
-</a>
+🛠 **CI/CD with Terraform**
+→ Infrastructure as Code with automated deployment pipelines
 
-<a href="https://github.com/JanithaDissanayaka/Auction-Site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanithaDissanayaka&repo=Auction-Site&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
+💻 **Auction Site**
+→ Full-stack application built with modern web technologies
 
 ---
+
+<!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Analytics
 
@@ -78,19 +99,23 @@
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/JanithaDissanayaka">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/JanithaDissanayaka">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+✨ <i>Building systems that scale, automate, and make impact.</i>
 </p>
